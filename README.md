@@ -1,30 +1,25 @@
-# Excel---CoffeeSalesDashboard
-The Interactive Coffee Sales Dashboard  aim's to empower users with actionable insights into their coffee sales performance. By seamlessly integrating pivot tables, pivot charts, slicers, and a timeline, the dashboard allows users to explore trends, identify patterns, and make informed decisions and information about coffee business! ☕
+# Coffee Sales Dashboard — Excel
 
- Let's dive into a concise overview of the interactive dashboard created for coffee sales:
+An interactive Excel dashboard for exploring coffee-sales performance.
 
-1. **Introduction**:
-   - The project aims to build an interactive dashboard using Excel.
-   - Key resources and data links are provided.
+## Overview
 
-2. **Final Dashboard Preview**:
-   - A glimpse of the dashboard's features.
-   - Highlights include slicers and a timeline for filtering data.
+The project combines data cleaning, transformation and interactive reporting to help explore sales trends and patterns.
 
-3. **Data Gathering**:
-   - Utilizes XLOOKUP and INDEX MATCH to populate missing data.
-   - Data is formatted and cleaned.
+## Workflow
 
-4. **Data Transformation**:
-   - Power Query splits and merges columns.
-   - Conditional and custom columns are created.
+1. Prepare and clean source data.
+2. Use lookup formulas such as XLOOKUP and INDEX/MATCH to enrich records.
+3. Transform data with Power Query.
+4. Build PivotTables and PivotCharts.
+5. Add slicers and a timeline for interactive filtering.
+6. Arrange the dashboard to make key trends easier to explore.
 
-5. **Pivot Tables and Pivot Charts**:
-   - Pivot tables are inserted and customized.
-   - Pivot charts are created and formatted.
+## Tools
 
-6. **Dashboard Design**:
-   - Arrangement and alignment of charts.
-   - Insertion and modification of timeline and slicers.
+- Microsoft Excel
+- Power Query
+- PivotTables and PivotCharts
+- Slicers and timelines
 
-Feel free to explore the dashboard further to visualize coffee sales trends and insights! ☕📊
+Explore the workbook and dashboard assets in this repository.
